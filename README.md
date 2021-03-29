@@ -6,7 +6,7 @@
 
 <br />
 
-Small, smart **currency converter** what using https://ratesapi.io/ :money:
+Small, smart ***currency converter*** what using https://ratesapi.io/ :euro: :dollar: :pound:
 
 
 
