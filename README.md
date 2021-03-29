@@ -1,4 +1,4 @@
-# exchangeRateApp
+# exchangeRateApp :money_with_wings:
 
 <br />
 
